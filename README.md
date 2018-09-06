@@ -1,2 +1,2 @@
-# keras-fast-style-transfer
-keras CNN for fast style transfer 
+# some deep learning projects
+some deep learning projects.
